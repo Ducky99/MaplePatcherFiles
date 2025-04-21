@@ -1,3 +1,2 @@
-String.wz
+Quest.wz
 Reactor.wz
-Skill.wz
